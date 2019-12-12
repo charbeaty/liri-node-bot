@@ -5,10 +5,10 @@ exports.spotify = {
     secret: process.env.SPOTIFY_SECRET
   };
 
-  exports.bandsInTown = {
-    key: process.env.BIT_KEY
-}
+//   exports.bandsInTown = {
+//     key: process.env.BIT_KEY
+// }
 
-exports.omdb = {
-    key: process.env.OMDB_KEY
-}
+// exports.omdb = {
+//     key: process.env.OMDB_KEY
+// }
