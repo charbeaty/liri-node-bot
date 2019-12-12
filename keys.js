@@ -1,11 +1,11 @@
 console.log('this is loaded');
 
 exports.spotify = {
-  id: process.env.SPOTIFY_ID,
-  secret: process.env.SPOTIFY_SECRET
-};
+    id: process.env.SPOTIFY_ID,
+    secret: process.env.SPOTIFY_SECRET
+  };
 
-exports.bandsInTown = {
+  exports.bandsInTown = {
     key: process.env.BIT_KEY
 }
 
